@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Application Insights on Azure Readiness starts here...</title>
+    <link>https://www.007ffflearning.com/tags/application-insights/</link>
+    <description>Recent content in Application Insights on Azure Readiness starts here...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 Apr 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.007ffflearning.com/tags/application-insights/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Collecting Hugo static site statistics using Azure Application Insights</title>
+      <link>https://www.007ffflearning.com/post/hugo_site_statistics_app_insights/</link>
+      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.007ffflearning.com/post/hugo_site_statistics_app_insights/</guid>
+      <description>Welcome back!
+About a month ago, I decided to move my former 007FFFLearning website from Wix.com to something &amp;ldquo;easier&amp;rdquo; to use for blog writing. While Wix is an excellent platform, offering an easy way to build a graphical website, besides a ton of plug-ins, it also comes with a cost. And since I didn&amp;rsquo;t have a need for a lot of the built-in features I was using out of my own business before I joined Microsoft, I wanted to try something new.</description>
+    </item>
+    
+  </channel>
+</rss>

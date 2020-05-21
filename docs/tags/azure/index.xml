@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Azure on Azure Readiness starts here...</title>
+    <link>https://www.007ffflearning.com/tags/azure/</link>
+    <description>Recent content in Azure on Azure Readiness starts here...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 May 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.007ffflearning.com/tags/azure/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>is HTML parameter gone from Logic Apps Send Email Connector</title>
+      <link>https://www.007ffflearning.com/post/email-is-html-gone-logicapps/</link>
+      <pubDate>Sun, 10 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.007ffflearning.com/post/email-is-html-gone-logicapps/</guid>
+      <description>Hi,
+For almost 2 years, I have been using the &amp;ldquo;Office 365 Outlook Connector&amp;rdquo; as part of my Logic Apps flows, to send emails internally and externally. Mainly for external receivers, I used the &amp;ldquo;is HTML&amp;rdquo; parameter for the body of the email.
+This weekend, I was building a new Logic Apps flow, and to my surprise, finding out that the &amp;ldquo;V2&amp;rdquo; of this same connector / action, doesn&amp;rsquo;t have that parameter anymore.</description>
+    </item>
+    
+    <item>
+      <title>Collecting Hugo static site statistics using Azure Application Insights</title>
+      <link>https://www.007ffflearning.com/post/hugo_site_statistics_app_insights/</link>
+      <pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.007ffflearning.com/post/hugo_site_statistics_app_insights/</guid>
+      <description>Welcome back!
+About a month ago, I decided to move my former 007FFFLearning website from Wix.com to something &amp;ldquo;easier&amp;rdquo; to use for blog writing. While Wix is an excellent platform, offering an easy way to build a graphical website, besides a ton of plug-ins, it also comes with a cost. And since I didn&amp;rsquo;t have a need for a lot of the built-in features I was using out of my own business before I joined Microsoft, I wanted to try something new.</description>
+    </item>
+    
+    <item>
+      <title>Running an Azure Storage Static Site, protected by Azure Front Door</title>
+      <link>https://www.007ffflearning.com/post/static_site_frontdoor/</link>
+      <pubDate>Sat, 25 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.007ffflearning.com/post/static_site_frontdoor/</guid>
+      <description>Earlier this week, I had the honor to present a session for the Belgian MC2MC Microsoft community, as part of a broader online event week with other Belgian community User Groups (https://www.mc2mc.be/events/be-community-week-mc2mc-evening).
+My session topic was based on a little real-life project I worked on myself only a few weeks ago, deploying a “Hugo” based static website on Azure Storage Account Static Site (Yes, this site you are reading right now&amp;hellip;).</description>
+    </item>
+    
+    <item>
+      <title>My 1st 6 months as an Azure Technical Trainer at Microsoft</title>
+      <link>https://www.007ffflearning.com/post/my-first-6-months-as-att/</link>
+      <pubDate>Sun, 12 Apr 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.007ffflearning.com/post/my-first-6-months-as-att/</guid>
+      <description>Hey,
+It has been quiet for several weeks on the blog front, but that doesn&amp;rsquo;t mean nothing happened! The core subject of this post is sharing my happiness around being in the Azure Technical Trainer role for more than 6 months now. (Last time I was at Microsoft in 2016, this was about the time where I figured out I needed to move out of the team, exploring other opportunities&amp;hellip;) but not so this time!</description>
+    </item>
+    
+    <item>
+      <title>New book published: Azure Strategy and Implementation Guide, 3rd edition</title>
+      <link>https://www.007ffflearning.com/post/new-book-published/</link>
+      <pubDate>Mon, 03 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.007ffflearning.com/post/new-book-published/</guid>
+      <description>You might get amazed, finding out I managed to publish yet another book, where the previous one Efficiently Migrating your workloads to Azure only got published around Christmas.
+However, this new one was a &amp;ldquo;longer work in progress&amp;rdquo;, and not something I could spew out in just a few weeks.
+Several months ago, I got approached by Packt Publishing, asking me to &amp;ldquo;write a quick note on how I look at Azure strategic implementation and migration&amp;rdquo;.</description>
+    </item>
+    
+    <item>
+      <title>Updated Azure Exams Announced</title>
+      <link>https://www.007ffflearning.com/post/updated-azure-exams/</link>
+      <pubDate>Sat, 25 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.007ffflearning.com/post/updated-azure-exams/</guid>
+      <description>Things are going fast in the Azure world, and apparently exams are more and more following that pace. Before you start screaming and worrying, as you might be preparing for a current exam, let me share a bit about several steps happening before an exam becomes available.
+Exam Objectives (OD) For a long time, Microsoft Learning has based exams on &amp;ldquo;exam objectives&amp;rdquo;, which is typically a list of &amp;ldquo;services, features, activities&amp;rdquo; anyone taking the exam, should master.</description>
+    </item>
+    
+    <item>
+      <title>Happy to announce my newest Azure book got (self) published</title>
+      <link>https://www.007ffflearning.com/post/new-azure-book-selfpublish/</link>
+      <pubDate>Fri, 03 Jan 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.007ffflearning.com/post/new-azure-book-selfpublish/</guid>
+      <description>I&amp;rsquo;m excited about this next project that finally got live, thanks to a bit of quiet time during the Holidays. While it is not up to the full 100% of what I had in mind, I didn&amp;rsquo;t want to hold back the content any longer, since Azure is moving already that fast&amp;hellip;
+The original idea of this material was based on a workshop I created for Microsoft Internal (Azure Developer Series) in Sept 2018 as a contractor, which was a combination of slides, videos and lab guides.</description>
+    </item>
+    
+    <item>
+      <title>Azure Mystery Mansion</title>
+      <link>https://www.007ffflearning.com/post/azure-mystery-mansion/</link>
+      <pubDate>Tue, 31 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.007ffflearning.com/post/azure-mystery-mansion/</guid>
+      <description>Earlier this week, I discovered &amp;quot;[Azure Mystery Mansion]https://www.microsoft.com/mysterymansion&amp;rdquo;, published by the Microsoft Azure marketing team. As an Azure enthusiast, I wanted to find out about this mystery ;), actually being really excited about it, as it is primarily focused around giving you an easy, fun, yet interesting learning experience.
+What is it? It heavily reminded me of several PC games I played as a teenager (yes, early &amp;rsquo;90s), where you could move around a game, and even deciding on the flow and ending, by clicking keywords.</description>
+    </item>
+    
+    <item>
+      <title>Azure Learning Resources</title>
+      <link>https://www.007ffflearning.com/post/azure-learning-resources/</link>
+      <pubDate>Sun, 22 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.007ffflearning.com/post/azure-learning-resources/</guid>
+      <description>As I got asked so many times what Azure learning resources are available, I thought this could make up an excellent blog post :) - This is actually based on a summary slide I have added to my in-person and online Azure training workshops closing deck, but updated where needed. Below order is a random listing of resources, not forcing any priority or preference:
+  Microsoft Learn
+  Microsoft Hands-on Labs</description>
+    </item>
+    
+    <item>
+      <title>My 1st quarter as an Azure Technical Trainer at Microsoft</title>
+      <link>https://www.007ffflearning.com/post/1st-quarter-as-att/</link>
+      <pubDate>Sun, 15 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.007ffflearning.com/post/1st-quarter-as-att/</guid>
+      <description>Hey,
+As most of you probably know in meantime, I joined Microsoft as a full-time employee mid September this year, in the prestigious Azure Technical Trainer team - EMEA. This team is part of the WorldWide Learning (WWL) organization, and working on the Enterprise Skills Initiative (ESI) program.
+As the name says, as Azure Technical Trainer, my role is to provide training to larger Microsoft Partners and customers in EMEA, helping them in being successful in using Azure, and mainly focusing on skilling up the IT teams (sysadmins, developers, solution architects).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>highlight-js on Azure Readiness starts here...</title>
+    <link>/tags/highlight-js/</link>
+    <description>Recent content in highlight-js on Azure Readiness starts here...</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/tags/highlight-js/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Project 4</title>
+      <link>/publications/project4/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/project4/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
